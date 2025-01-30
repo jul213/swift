@@ -18,3 +18,7 @@ func minMax(array [int])-> (min: int, max: int) {
 
     return (currenMin, currentMax)
 }
+
+func aritmetic(_numbers: Double...) -> Double {
+    let resultado: Double = 0
+}
