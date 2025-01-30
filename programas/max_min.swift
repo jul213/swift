@@ -14,4 +14,7 @@ func minMax(array [int])-> (min: int, max: int) {
             currentMax = value;
         }
     }
+
+
+    return (currenMin, currentMax);
 }
