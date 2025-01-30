@@ -21,4 +21,8 @@ func minMax(array [int])-> (min: int, max: int) {
 
 func aritmetic(_numbers: Double...) -> Double {
     let resultado: Double = 0
+    for number in numbers {
+        resultado += number
+    }
+    return total
 }
